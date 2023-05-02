@@ -185,7 +185,7 @@
                 }
               ],
               "needsHeightForContent": true,
-              "leftColumn": 0,
+              "leftColumn": 28,
               "delimiter": ",",
               "defaultSelectedRowIndex": 0,
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -371,7 +371,7 @@
               "key": "p6gy99uaim",
               "canFreezeColumn": true,
               "isDeprecated": false,
-              "rightColumn": 34,
+              "rightColumn": 62,
               "textSize": "0.875rem",
               "widgetId": "1xf5tybjkx",
               "minWidth": 450,
@@ -388,6 +388,51 @@
               "mobileLeftColumn": 0,
               "isVisiblePagination": true,
               "verticalAlignment": "CENTER"
+            },
+            {
+              "boxShadow": "none",
+              "mobileBottomRow": 53,
+              "widgetName": "AudioRecorder1",
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8ed8464c5725a5d89a8fa563f.svg",
+              "searchTags": [
+                "sound recorder",
+                "voice recorder"
+              ],
+              "topRow": 46,
+              "bottomRow": 53,
+              "parentRowSpace": 10,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "hideCard": false,
+              "mobileRightColumn": 28,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 12,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "ft6xvd353f",
+              "isDeprecated": false,
+              "rightColumn": 28,
+              "widgetId": "au8zxa25fs",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "minWidth": 450,
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "mobileTopRow": 46,
+              "responsiveBehavior": "fill",
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "mobileLeftColumn": 12,
+              "iconColor": "white"
             }
           ]
         },
